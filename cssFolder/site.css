@@ -1,7 +1,10 @@
 body {
-    background: white;
+    background: rgb(222, 238, 247);
     font-family: monospace;
     font-size: 30px;
     font-weight: 600;
     
+}
+img {
+border-radius: 50%;
 }
